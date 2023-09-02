@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.15;
+// pragma solidity 0.8.15;
 
 // 자금 입금 및 인출을 다루는 스마트 컨트랙트
 contract ExampleMappingWithdrawals {
